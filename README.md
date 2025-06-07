@@ -138,5 +138,6 @@ Chat_App_updated/
 
 <p align="center">
   Made with ❤️ in Java • Happy Chatting! ✨
+  Talksmiths Connect
 </p>
 
